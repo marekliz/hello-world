@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<title>Andre Henry-Cotnam</title>
+<style>
+       body {
+	      text-align: center;
+	      background: url("http://i.imgur.com/ytHlp0D.jpg");
+		  background-size: cover;
+	      background-position: relative;
+		  background-attachment: fixed;
+		  background-size: 120%;
+	      color: 000000;
+	    }	
+		
+		h1 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 20px;
+	
+		}
+		
+		h2 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 75px;
+      		}
+
+
+		h3 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 20px;
+			background: white;
+			opacity: .8;
+	
+		}
+
+
+
+		div {
+			 height: 350px;
+			 width: 350px;
+			 background-size: cover;
+		     border-radius: 12px;
+			 display: inline-block;
+			 padding: 0px;
+			 opacity: 0.3;
+		}
+
+		div:hover {
+			opacity: 1;
+		}
+
+
+		a:link {
+			color: black;
+			text-decoration: none;
+		}
+		a:visited {
+			color: black;
+			text-decoration: none;
+		}
+		a:hover {
+			color: black;
+			text-decoration: none;
+		}
+		a:active {
+			color: black;
+			text-decoration: none;
+		}
+
+.first {
+background-image: url("http://i.imgur.com/Ov3TpgS.png");
+}
+
+.second {
+background-image: url("http://i.imgur.com/OccAI2I.png");
+}
+
+.third {
+background-image: url("http://i.imgur.com/7XVDU3d.png");
+}
+
+.fourth {
+background-image: url("http://i.imgur.com/0S7hPyh.png");
+}
+
+.fifth {
+background-image: url("http://i.imgur.com/gJmYGDJ.jpg");
+}
+
+    
+    </style>
+    
+    <body>
+	
+<h1>
+<a href="/index.html">Home</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/biography.html">Biography</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/published-work.html">Published Work</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/advocacy.html">Advocacy</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/contact.html">Contact</a></h1>
+
+<h2>ANDRE HENRY-COTNAM</h2>
+
+<h3>
+Shown are some of Andre's published contributions and a campus literary magazine that featured Andre's work in 2016. His diverse contributions covered various topics from popular culture to Canadian history, all of which reflected on race, gender, and/or culture. Click on the images to see the full articles.
+</h3>
+
+<a href="https://issuu.com/thecampus/docs/february_24th_final" target="_blank"><div class="first"></div></a>
+<a href="https://issuu.com/thecampus/docs/february_10th_final" target="_blank"><div class="second"></div></a>
+<a href="https://issuu.com/thecampus/docs/october_28th_final" target="_blank"><div class="third"></div></a>
+<a href="https://issuu.com/thecampus/docs/the_campus_-_november_25__2015" target="_blank"><div class="fourth"></div></a>
+<a href="http://www.ubishops.ca/academic-programs/faculty-of-arts-and-science/humanities/english-department/events-in-the-english-department/the-mitre/" target="_blank"><div class="fifth"></div></a>
+
+</body>
+
+</head>
