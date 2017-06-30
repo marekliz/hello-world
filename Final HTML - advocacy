@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<title>Andre Henry-Cotnam</title>
+<style>
+       body {
+	      text-align: center;
+	      background: url("http://i.imgur.com/ytHlp0D.jpg");
+		  background-size: cover;
+	      background-position: relative;
+		  background-attachment: fixed;
+		  background-size: 120%;
+	      color: 000000;
+	    }	
+		
+		h1 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 20px;
+	
+		}
+		
+		h2 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 75px;
+		}
+
+		h4{
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 20px;
+			background: white;
+			opacity: .8;
+		}
+
+		div {
+			 height: 500px;
+			 width: 800px;
+			 background-size: cover;
+		   	 border-radius: 12px;
+			 display: inline-block;
+			 padding: 0px;
+			 opacity: 0.5;
+			 
+			
+			
+		}
+		div:hover {
+			opacity: 1;
+		}
+
+      		a:link {
+			color: black;
+			text-decoration: none;
+		}
+		a:visited {
+			color: black;
+			text-decoration: none;
+		}
+		a:hover {
+			color: black;
+			text-decoration: none;
+		}
+		a:active {
+			color: black;
+			text-decoration: none;
+		}
+
+.andre {
+	background-image: url("http://i.imgur.com/GFHzJkL.png");
+}
+
+    </style>
+    
+    <body>
+	
+<h1>
+<a href="/index.html">Home</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/biography.html">Biography</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/published-work.html">Published Work</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/advocacy.html">Advocacy</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/contact.html">Contact</a></h1>
+
+<h2>ANDRE HENRY-COTNAM</h2>
+
+<div class="andre">
+</div>
+
+<h4>
+Andre taught student leaders at Bishop’s orientation week how to interact with LGBTQ first year students, and how to be positive leaders on campus. Important takeaways from his talk included being mindful of people’s preferred pronouns, how to direct students to campus LGBTQ resources, and overall recognizing the existence of diverse sexual orientations and gender identities.
+
+His campus activism and leadership began with his participation in the Bishop's University Pride Association, a campus LGBTQ advocacy group that offered support, education, and resources for students. His contributions to The Campus also provided opinion pieces on not only the LGBTQ community but also Black culture. 
+
+Since graduating from Bishop's, Andre participates in forums in the Toronto area where issues about race, culture, gender, and sexuality. Townhall meetings and local events for organizations allow Andre to stay involved with his community and listen to other queer black people and organize events that empower marginalized communities. 
+</h4>
+
+</body>
+
+</head>
