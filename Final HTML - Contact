@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<title>Andre Henry-Cotnam</title>
+<style>
+       body {
+	      text-align: center;
+	      background: url("http://i.imgur.com/ytHlp0D.jpg");
+		  background-size: cover;
+	     	 background-position: relative;
+		  background-attachment: fixed;
+		  background-size: 120%;
+	      color: 000000;
+	    }	
+		
+		h1 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 20px;
+	
+		}
+		
+		h2 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 75px;
+ 		}
+	     		
+
+		h3 {
+			 background-size: cover;
+		    	 border-radius: 12px;
+			 display: inline-block;
+			 padding: 0px;
+			
+			
+		}
+
+
+		div {
+			 height: 100px;
+			 width: 100px;
+			 background-size: cover;
+		    	 border-radius: 12px;
+			 display: inline-block;
+			 margin-left: 100px;
+			 padding: 0px;
+			
+		}			
+
+		a:link {
+			color: black;
+			text-decoration: none;
+		}
+		a:visited {
+			color: black;
+			text-decoration: none;
+		}
+		a:hover {
+			color: black;
+			text-decoration: none;
+		}
+		a:active {
+			color: black;
+			text-decoration: none;
+		}
+    
+
+.gmail {
+	background-image: url("https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300");
+}
+
+.face {
+	background-image: url("https://www.facebook.com/images/fb_icon_325x325.png");
+}
+.link {
+	background-image: url("https://yt3.ggpht.com/-CepHHHB3l1Y/AAAAAAAAAAI/AAAAAAAAAAA/Z8MftqWbEqA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg");
+
+}
+
+
+
+
+    </style>
+    
+    <body>
+	
+<h1>
+<a href="/index.html">Home</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/biography.html">Biography</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/published-work.html">Published Work</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/advocacy.html">Advocacy</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/contact.html">Contact</a></h1>
+
+<h2>ANDRE HENRY-COTNAM</h2>
+
+<h3>
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/andrehenryc">Tweets by andrehenryc</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="//widgets-code.websta.me/w/17303e622e85?ck=MjAxNy0wNi0yOVQyMTozOToxNi41MjNa" allowtransparency="true" frameborder="0" scrolling="no" style="border:none;overflow:auto;height:610px;width:395px;"></iframe>
+</h3>
+<br>
+<a href="https://mail.google.com/mail/" target="_blank"><div class="gmail"></div></a>
+<a href="https://www.facebook.com/" target="_blank"><div class="face"></div></a>
+<a href="https://www.linkedin.com/uas/login" target="_blank"><div class="link"></div></a>
+
+</body>
+
+</head>
