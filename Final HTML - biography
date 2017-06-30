@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+<title>Andre Henry-Cotnam</title>
+<style>
+       body {
+	      text-align: center;
+	      background: url("http://i.imgur.com/ytHlp0D.jpg");
+		  background-size: cover;
+	      background-position: relative;
+		  background-attachment: fixed;
+		  background-size: 120%;
+	      color: 000000;
+	    }	
+		
+		h1 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 20px;
+	
+		}
+		
+		h2 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			text-align: center;
+			font-size: 75px;
+		}
+
+		h3 {
+			font-family: 'Open Sans Condensed', sans-serif;
+			font-size: 20px;
+			background: white;
+			opacity: .8;
+			text-align: center;
+		}
+
+		
+		div {
+			height: 500px;
+			width: 350px;
+			background-size: cover;
+			border-radius: 12px;
+			display: inline-block;
+			padding: 0px;
+			opacity: 0.5;
+			
+		}
+
+		div:hover {
+			opacity: 1;
+		}
+
+      		a:link {
+			color: black;
+			text-decoration: none;
+		}
+		a:visited {
+			color: black;
+			text-decoration: none;
+		}
+		a:hover {
+			color: black;
+			text-decoration: none;
+		}
+		a:active {
+			color: black;
+			text-decoration: none;
+		}
+    
+.andre {
+	background-image: url("http://i.imgur.com/2jVkQmr.png");
+}
+
+
+    </style>
+    
+    <body>
+	
+<h1>
+<a href="/index.html">Home</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/biography.html">Biography</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/published-work.html">Published Work</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/advocacy.html">Advocacy</a>  &nbsp &nbsp &nbsp &nbsp
+<a href="/contact.html">Contact</a></h1>
+
+<h2>ANDRE HENRY-COTNAM</h2>
+
+<h3>
+Born in raised in the greater Toronto area, Andre is a 23 year old queer transgender college graduate whose contributions to social activism are reflections of his own experiences. From a young age, Andre was heavily involved in various sports and school activities. His primary sport was soccer and his athletic skills as well as academic achievements landed him scholarships at Bishop’s University in Quebec, where he played soccer and studied for 4 and a half years. Andre graduated in June 2017 with a Bachelor of Arts degree in Honors English with a concentration in Film, Media & Cultural Studies, as well double minor in International Studies & History. His time at Bishops was also spent contributing to The Campus, a Bishop’s news publication. He also worked with school administrators to create gender neutral restrooms on campus as well as running seminars that trained upperclassman leaders in LGBTQ awareness and conduct. Since graduating from Bishop’s, Andre has returned to Toronto where he is living and working full time at Home Depot as a supervisor in training. He continues to work with his activist friends to help create safe spaces for LGBTQ youth in the black community.
+</h3>
+
+<div class="andre">
+</div>
+
+</body>
+
+</head>
